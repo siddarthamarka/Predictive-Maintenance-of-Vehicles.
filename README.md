@@ -60,6 +60,6 @@ Cloud-based analytics for centralized fleet management
 Deep learning models for complex failure pattern detection
 Edge computing to minimize latency and improve responsiveness
 
-🚀 Conclusion
+🚀 Conclusion: 
 This system offers a comprehensive, data-driven approach to automotive predictive maintenance. By combining real-time IoT sensor data with machine learning, it transitions from reactive to proactive vehicle care—ushering in smarter, safer, and more efficient transportation systems.
 
